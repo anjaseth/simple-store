@@ -24,13 +24,7 @@ Set the variable using bash:
     $>mvn spring-boot:run
 
 
-
-                                     USER INTERFACE
-                              
-   Login page:
-   
-                              
-                              
+      
                               
                               
    
